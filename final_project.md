@@ -3,4 +3,4 @@
 A decoder for the [COW esolang](https://editor.p5js.org/)
 
 ## Code
-([p5js File](https://editor.p5js.org/))
+[p5js File](https://editor.p5js.org/)
