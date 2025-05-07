@@ -7,4 +7,9 @@ A decoder for the [COW esolang](https://esolangs.org/wiki/COW)
 
 ## Other Materials
 [Decoder Excel Sheet](https://docs.google.com/spreadsheets/d/11iQ3PvbtJHXpISxHQ8pqUGZqvKxuKY5zbDQ7ts_Vd_Q/edit?gid=0#gid=0)
+
+This sheet was used to decode the language so I could better understand it and check my outputs at different parts of the program.
+
 [Final Presnetation](https://docs.google.com/presentation/d/14Jw4O9G70-ji-dpQbmzSnYxx1Cmq0sAfHsC8kcQJtfo/edit?usp=sharing)
+
+My final presentation slides. 
