@@ -5,6 +5,8 @@ A decoder for the [COW esolang](https://esolangs.org/wiki/COW)
 ## Code
 [p5js File](https://editor.p5js.org/cherryreaper/sketches/YQ_brJHHf)
 
+This program serves as a visual decoder for the COW esolang. It's also got cow print. 
+
 ## Other Materials
 [Decoder Excel Sheet](https://docs.google.com/spreadsheets/d/11iQ3PvbtJHXpISxHQ8pqUGZqvKxuKY5zbDQ7ts_Vd_Q/edit?gid=0#gid=0)
 
